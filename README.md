@@ -14,9 +14,10 @@
 Experience
 
 ## Langages informatiques
-|**Java**    | niveau avancé        |**Android**     |niveau avancé       |
-|:-----------|:---------------------|:---------------|:-------------------|
-|**Python**  | niveau avancé        |**C**           |niveau intermédiaire|
-|**Latex**   | niveau intermédiaire |**HTML5**       |niveau intermédiaire|
-|**CSS3**    | niveau intermédiaire |**Javascript**  |niveau intermédiaire|
-|**C++**     | niveau débutant      |**PHP**         |niveau débutant     |
+|||||
+|:-----------|:---------------------|:---------------|:---------------------|
+|**Java**    | niveau avancé        |**Android**     | niveau avancé        |
+|**Python**  | niveau avancé        |**C**           | niveau intermédiaire |
+|**Latex**   | niveau intermédiaire |**HTML5**       | niveau intermédiaire |
+|**CSS3**    | niveau intermédiaire |**Javascript**  | niveau intermédiaire |
+|**C++**     | niveau débutant      |**PHP**         | niveau débutant      |
