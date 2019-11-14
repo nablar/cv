@@ -1,7 +1,6 @@
 .wrapper{
 	margin-left: 10px;
 	margin-right: 10px;
-	width: 1920px;
 }
 
 header{
@@ -25,7 +24,6 @@ table{
 section{
 	margin-right: 10px;	
 	margin-left: 50px;
-	width: auto;
 }
 
 body{
