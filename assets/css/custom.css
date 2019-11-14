@@ -14,14 +14,13 @@ table{
 
 section{
 	margin-right: 10px;	
-	width: 100%;
 }
 
 body{
 	margin-right: 10px;
-	width: 100%;
 }
 
 tr, td, thead, tbody{
 	border: none;
+	font-weight: normal;
 }
