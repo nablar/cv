@@ -1,8 +1,4 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
-header{
-	margin-left: 10px;
-	color: red;
-}
+@import "{{ site.theme }}";
