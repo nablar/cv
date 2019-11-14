@@ -8,17 +8,30 @@
 |**Polytechnique Montréal**                                          | **Montréal**                |
 |*Double diplôme, ﬁlière Sécurité et fiabilité informatique*         | *2019-2020*                 |
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ## Expérience
-Experience
+### Projets
+- J’ai été développeur d’une application Android de liseuse musicale dans le cadre du projet PACT 2018 à Télécom ParisTech, qui a remporté le prix d’originalité.
+- J’ai été coordinateur et designer pour le projet [ETIC 2018](https://controverses.telecom-paristech.fr/2018/18-gpa/) de Télécom ParisTech sur la GPA.
+- J’ai réalisé une étude Junior Entreprise avec Telecom Etude.
+- J’ai réalisé des projets personnels tels qu’un démineur en java ou un logiciel de stéganographie en python.
+### Autres
+- Pour mon stage ouvrier, j’ai travaillé pendant 4 semaines dans un hôtel au Japon. De plus, j’ai été confronté à
+la culture japonaise pendant 3 semaines supplémentaires, en vivant dans une famille d’accueil.
+- Je donne des cours particuliers de mathématiques et de physique à des lycéens.
+- J’ai été chargé de relations entreprises au Forum des Télécommunications 2018.
 
 ## Langages informatiques
 
 |**Java**    | niveau avancé        |**Android**     | niveau avancé        |
 |:-----------|:---------------------|:---------------|:---------------------|
-|**Python**  | niveau avancé        |**C**           | niveau intermédiaire |
-|**Latex**   | niveau intermédiaire |**HTML5**       | niveau intermédiaire |
-|**CSS3**    | niveau intermédiaire |**Javascript**  | niveau intermédiaire |
-|**C++**     | niveau débutant      |**PHP**         | niveau débutant      |
+|**Python**  | Niveau avancé        |**C**           | Niveau intermédiaire |
+|**Latex**   | Niveau intermédiaire |**HTML5**       | Niveau intermédiaire |
+|**CSS3**    | Niveau intermédiaire |**Javascript**  | Niveau intermédiaire |
+|**C++**     | Niveau débutant      |**PHP**         | Niveau débutant      |
 
+## Langues
+
+|**Français** | Langue maternelle |**Anglais**  | C1 (Très bon niveau) |
+|:------------|:------------------|:------------|:---------------------|
+|**Espagnol** | B2 (Bon niveau)   |**Japonais** | A2 (Niveau débutant) |
