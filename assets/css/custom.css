@@ -20,7 +20,7 @@ body{
 	margin-right: 10px;
 }
 
-tr, td, thead, tbody{
+tr, td, th, thead, tbody{
 	border: none;
 	font-weight: normal;
 }
