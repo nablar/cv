@@ -20,7 +20,14 @@ body{
 	margin-right: 10px;
 }
 
-tr, td, th, thead, tbody{
+th, thead, tbody{
 	border: none;
 	font-weight: normal;
+}
+
+tr, td{
+	color: black;
+  border-style: solid;
+  border-width: 0px 0px 0.5px 0px;
+	border-color: gray;
 }
