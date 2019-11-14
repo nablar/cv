@@ -28,7 +28,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <ul style="list-style: none;">
+        <ol style="list-style: none;">
 	        <li id="mail1" class="view"><a href="mailto:alban.recly@gmail.com">alban.recly@gmail.com</a></li>
 	        <li id="mail2" class="view"><a href="mailto:alban.recly@telecom-paris.fr">alban.recly@telecom-paris.fr</a></li>
 	        <li id="mail3" class="view"><a href="mailto:alban.recly@eurecom.fr">alban.recly@eurecom.fr</a></li>
@@ -36,7 +36,7 @@
 	        <li id="phone" class="view">06.06.44.26.95</li>
 	        <li id="github" class="view"><a href="{{ site.github.owner_url }}">github</a></li>
 	        <li id="root-me" class="view"><a href="https://www.root-me.org/Nablar?inc=statistiques">root-me</a></li>	
-        </ul>
+        </ol>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -47,7 +47,7 @@
         </ul>
         {% endif %}
       </header>
-      <section style="width: 100%;">
+      <section style="width: 100%; margin-left: 50px;">
 
       {{ content }}
 
