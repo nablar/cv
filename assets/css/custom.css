@@ -9,7 +9,8 @@ header{
 }
 
 .view{
-	margin-bottom: 10pt;
+	margin-bottom: 5pt;
+	margin-top: 5pt;
 }
 
 #photo{
@@ -44,6 +45,6 @@ tr, td{
 	border-color: #f6f6f6;
 }
 
-h1{
+section h1{
 	display: none;
 }
