@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.wrapper{
+h1{
 	margin-left: 10px;
 	color: red;
 }
