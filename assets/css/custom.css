@@ -4,5 +4,10 @@
 }
 
 #photo{
-	width:100px;
+	width:200px;
+}
+
+table{
+	width: 100%;
+	border: none;
 }
