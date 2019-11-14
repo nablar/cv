@@ -25,6 +25,7 @@ table{
 section{
 	margin-right: 10px;	
 	margin-left: 50px;
+	width: auto;
 }
 
 body{
@@ -43,8 +44,4 @@ tr, td{
   border-style: solid;
   border-width: 0px 0px 0.5px 0px;
 	border-color: #f6f6f6;
-}
-
-section h1{
-	display: none;
 }
