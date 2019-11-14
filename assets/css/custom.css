@@ -1,3 +1,8 @@
-.wrapper, header{
+.wrapper{
 	margin-left: 10px;
+	margin-right: 10px;
+}
+
+header img{
+	width:50%;
 }
