@@ -4,6 +4,10 @@
 	width: 100%;
 }
 
+header{
+	padding-right: 50px;
+}
+
 .view{
 	margin-bottom: 10pt;
 }
